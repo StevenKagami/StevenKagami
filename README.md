@@ -25,7 +25,7 @@
 
 <a href="https://dribbble.com/steven jorgensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="steven jorgensen" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/steven jorgensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="steven jorgensen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/stevenjorgensen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="steven jorgensen" height="30" width="40" /></a>
 
 </p>
 
