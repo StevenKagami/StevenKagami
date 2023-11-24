@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently student on **Binus University**
 - 🌱 I’m currently learning **React JS, Next JS**
-- 👨‍💻 All of my projects are available at https://stevenjorgensen.netlify.app
+- 👨‍💻 My portfolio website at https://stevenjorgensen.netlify.app
 - 💬 Ask me about **React, Vue**
 - 📫 How to reach me **Stevenjorgensen10@yahoo.com**
 - ⚡ Fun fact **Im fluid and never stop learning about Computer Science,Technologies, and Computer Engineering**
